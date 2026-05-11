@@ -1,0 +1,3002 @@
+[
+  {
+    "word_id": "1",
+    "tamil_word": "தக்காளி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "තක්කාලි",
+    "english_meaning": "tomato"
+  },
+  {
+    "word_id": "2",
+    "tamil_word": "வெங்காயம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ලූනු",
+    "english_meaning": "onion"
+  },
+  {
+    "word_id": "5",
+    "tamil_word": "கத்திரிக்காய்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "වම්බටු",
+    "english_meaning": "Eggplant"
+  },
+  {
+    "word_id": "15",
+    "tamil_word": "புடலங்காய்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බටර්කප්",
+    "english_meaning": "Buttercup"
+  },
+  {
+    "word_id": "29",
+    "tamil_word": "இஞ்சி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඉඟුරු",
+    "english_meaning": "Ginger"
+  },
+  {
+    "word_id": "30",
+    "tamil_word": "பூண்டு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "සුදුළුනු",
+    "english_meaning": "Garlic"
+  },
+  {
+    "word_id": "47",
+    "tamil_word": "தேங்காய்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පොල්",
+    "english_meaning": "Coconut"
+  },
+  {
+    "word_id": "68",
+    "tamil_word": "நெல்லி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නෙලී",
+    "english_meaning": "Nelly"
+  },
+  {
+    "word_id": "85",
+    "tamil_word": "வெற்றிலை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බුලත් කොළය",
+    "english_meaning": "betel leaf"
+  },
+  {
+    "word_id": "86",
+    "tamil_word": "பாக்கு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පකු",
+    "english_meaning": "Paku"
+  },
+  {
+    "word_id": "97",
+    "tamil_word": "மிளகு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගම්මිරිස්",
+    "english_meaning": "Pepper"
+  },
+  {
+    "word_id": "98",
+    "tamil_word": "கடுகு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vegetables",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "අබ",
+    "english_meaning": "Mustard"
+  },
+  {
+    "word_id": "101",
+    "tamil_word": "ஆப்பிள்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඇපල්",
+    "english_meaning": "Apple"
+  },
+  {
+    "word_id": "103",
+    "tamil_word": "வாழைப்பழம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කෙසෙල්",
+    "english_meaning": "Banana"
+  },
+  {
+    "word_id": "104",
+    "tamil_word": "திராட்சை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මිදි",
+    "english_meaning": "grapes"
+  },
+  {
+    "word_id": "105",
+    "tamil_word": "மாம்பழம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "අඹ",
+    "english_meaning": "Mango"
+  },
+  {
+    "word_id": "106",
+    "tamil_word": "பலாப்பழம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කොස්",
+    "english_meaning": "jackfruit"
+  },
+  {
+    "word_id": "107",
+    "tamil_word": "அன்னாசி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "අන්නාසි",
+    "english_meaning": "Pineapple"
+  },
+  {
+    "word_id": "108",
+    "tamil_word": "பப்பாளி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පැපොල්",
+    "english_meaning": "Papaya"
+  },
+  {
+    "word_id": "109",
+    "tamil_word": "கொய்யா",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පේර",
+    "english_meaning": "Guava"
+  },
+  {
+    "word_id": "110",
+    "tamil_word": "மாதுளை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "දෙළුම්",
+    "english_meaning": "Pomegranate"
+  },
+  {
+    "word_id": "117",
+    "tamil_word": "நாவல் பழம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නව පලතුර",
+    "english_meaning": "Novel fruit"
+  },
+  {
+    "word_id": "118",
+    "tamil_word": "நெல்லிக்காய்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගූස්බෙරි",
+    "english_meaning": "Gooseberry"
+  },
+  {
+    "word_id": "133",
+    "tamil_word": "ரம்புட்டான்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රඹුටන්",
+    "english_meaning": "Rambutan"
+  },
+  {
+    "word_id": "156",
+    "tamil_word": "ஈச்சம்பழம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Fruits",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "දෙළුම්",
+    "english_meaning": "Pomegranate"
+  },
+  {
+    "word_id": "194",
+    "tamil_word": "அம்மா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මව",
+    "english_meaning": "mother"
+  },
+  {
+    "word_id": "195",
+    "tamil_word": "அப்பா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පියා",
+    "english_meaning": "father"
+  },
+  {
+    "word_id": "197",
+    "tamil_word": "தம்பி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සහෝදරයා",
+    "english_meaning": "brother"
+  },
+  {
+    "word_id": "198",
+    "tamil_word": "அக்கா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සහෝදරිය",
+    "english_meaning": "sister"
+  },
+  {
+    "word_id": "199",
+    "tamil_word": "தங்கை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බාල නංගි",
+    "english_meaning": "younger sister"
+  },
+  {
+    "word_id": "200",
+    "tamil_word": "பாட்டி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ආච්චි",
+    "english_meaning": "Grandmother"
+  },
+  {
+    "word_id": "201",
+    "tamil_word": "தாத்தா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සීයා",
+    "english_meaning": "grandfather"
+  },
+  {
+    "word_id": "202",
+    "tamil_word": "மாமா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මාමා",
+    "english_meaning": "uncle"
+  },
+  {
+    "word_id": "203",
+    "tamil_word": "அத்தை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නැන්දා",
+    "english_meaning": "Aunt"
+  },
+  {
+    "word_id": "208",
+    "tamil_word": "மகன்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පුතා",
+    "english_meaning": "son"
+  },
+  {
+    "word_id": "209",
+    "tamil_word": "மகள்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දුව",
+    "english_meaning": "daughter"
+  },
+  {
+    "word_id": "212",
+    "tamil_word": "கணவர்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සැමියා",
+    "english_meaning": "Husband"
+  },
+  {
+    "word_id": "213",
+    "tamil_word": "மனைவி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බිරිඳ",
+    "english_meaning": "wife"
+  },
+  {
+    "word_id": "216",
+    "tamil_word": "சிறுவன்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කොල්ලා",
+    "english_meaning": "boy"
+  },
+  {
+    "word_id": "217",
+    "tamil_word": "சிறுமி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "People & Family",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කුඩා දැරිය",
+    "english_meaning": "little girl"
+  },
+  {
+    "word_id": "293",
+    "tamil_word": "ஆசிரியர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගුරුවරයා",
+    "english_meaning": "Teacher"
+  },
+  {
+    "word_id": "294",
+    "tamil_word": "மருத்துவர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඩොක්ටර්",
+    "english_meaning": "Doctor"
+  },
+  {
+    "word_id": "297",
+    "tamil_word": "காவலர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ආරක්ෂකයා",
+    "english_meaning": "Guard"
+  },
+  {
+    "word_id": "299",
+    "tamil_word": "விவசாயி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගොවියා",
+    "english_meaning": "farmer"
+  },
+  {
+    "word_id": "308",
+    "tamil_word": "நீதிபதி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "විනිසුරු",
+    "english_meaning": "Judge"
+  },
+  {
+    "word_id": "309",
+    "tamil_word": "தச்சன்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වඩු කාර්මිකයා",
+    "english_meaning": "Carpenter"
+  },
+  {
+    "word_id": "323",
+    "tamil_word": "மாலுமி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නාවිකයා",
+    "english_meaning": "Sailor"
+  },
+  {
+    "word_id": "331",
+    "tamil_word": "ஓவியர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පින්තාරු කරන්නා",
+    "english_meaning": "Painter"
+  },
+  {
+    "word_id": "332",
+    "tamil_word": "பாடகர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගායකයා",
+    "english_meaning": "Singer"
+  },
+  {
+    "word_id": "334",
+    "tamil_word": "நடிகர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නළුවා",
+    "english_meaning": "actor"
+  },
+  {
+    "word_id": "337",
+    "tamil_word": "சிற்பி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මූර්ති ශිල්පියා",
+    "english_meaning": "Sculptor"
+  },
+  {
+    "word_id": "370",
+    "tamil_word": "மதகுரு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Jobs/Professions",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පැවිද්දා",
+    "english_meaning": "Clergyman"
+  },
+  {
+    "word_id": "391",
+    "tamil_word": "நாய்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බල්ලා",
+    "english_meaning": "the dog"
+  },
+  {
+    "word_id": "392",
+    "tamil_word": "பூனை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බළලා",
+    "english_meaning": "Cat"
+  },
+  {
+    "word_id": "393",
+    "tamil_word": "பசு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ගවයා",
+    "english_meaning": "the cow"
+  },
+  {
+    "word_id": "394",
+    "tamil_word": "ஆடு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "එළුවා",
+    "english_meaning": "Goat"
+  },
+  {
+    "word_id": "398",
+    "tamil_word": "யானை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අලියා",
+    "english_meaning": "Elephant"
+  },
+  {
+    "word_id": "399",
+    "tamil_word": "சிங்கம்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සිංහයා",
+    "english_meaning": "the lion"
+  },
+  {
+    "word_id": "400",
+    "tamil_word": "புலி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කොටියා",
+    "english_meaning": "tiger"
+  },
+  {
+    "word_id": "401",
+    "tamil_word": "கரடி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "වලසා",
+    "english_meaning": "Bear"
+  },
+  {
+    "word_id": "403",
+    "tamil_word": "நரி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නරියා",
+    "english_meaning": "Fox"
+  },
+  {
+    "word_id": "405",
+    "tamil_word": "மான்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මුවන්",
+    "english_meaning": "Deer"
+  },
+  {
+    "word_id": "406",
+    "tamil_word": "முயல்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හාවා",
+    "english_meaning": "Rabbit"
+  },
+  {
+    "word_id": "409",
+    "tamil_word": "பன்றி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඌරා",
+    "english_meaning": "Pig"
+  },
+  {
+    "word_id": "410",
+    "tamil_word": "எலி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මීයා",
+    "english_meaning": "Rat"
+  },
+  {
+    "word_id": "418",
+    "tamil_word": "பாம்பு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සර්පයා",
+    "english_meaning": "Snake"
+  },
+  {
+    "word_id": "420",
+    "tamil_word": "மீன்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Animals",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මාළු",
+    "english_meaning": "Fish"
+  },
+  {
+    "word_id": "487",
+    "tamil_word": "பேருந்து",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බසය",
+    "english_meaning": "Bus"
+  },
+  {
+    "word_id": "491",
+    "tamil_word": "லாரி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ලැරී",
+    "english_meaning": "Larry"
+  },
+  {
+    "word_id": "495",
+    "tamil_word": "வானூர்தி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගුවන් යානය",
+    "english_meaning": "Airplane"
+  },
+  {
+    "word_id": "496",
+    "tamil_word": "விமானம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගුවන් යානය",
+    "english_meaning": "Airplane"
+  },
+  {
+    "word_id": "497",
+    "tamil_word": "கப்பல்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නැව",
+    "english_meaning": "the ship"
+  },
+  {
+    "word_id": "498",
+    "tamil_word": "படகு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බෝට්ටුව",
+    "english_meaning": "boat"
+  },
+  {
+    "word_id": "499",
+    "tamil_word": "ஹெலிகாப்டர்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "හෙලිකොප්ටරය",
+    "english_meaning": "Helicopter"
+  },
+  {
+    "word_id": "501",
+    "tamil_word": "ஆட்டோ",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඔටෝ",
+    "english_meaning": "Auto"
+  },
+  {
+    "word_id": "503",
+    "tamil_word": "டிராக்டர்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ට්රැක්ටරය",
+    "english_meaning": "Tractor"
+  },
+  {
+    "word_id": "510",
+    "tamil_word": "குதிரை வண்டி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "අශ්ව කරත්තය",
+    "english_meaning": "horse carriage"
+  },
+  {
+    "word_id": "520",
+    "tamil_word": "ராக்கெட்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රොකට්",
+    "english_meaning": "Rocket"
+  },
+  {
+    "word_id": "525",
+    "tamil_word": "வேன்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Vehicles",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "වෑන්",
+    "english_meaning": "Van"
+  },
+  {
+    "word_id": "587",
+    "tamil_word": "வீடு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගෙදර",
+    "english_meaning": "home"
+  },
+  {
+    "word_id": "589",
+    "tamil_word": "கதவு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "දොර",
+    "english_meaning": "the door"
+  },
+  {
+    "word_id": "590",
+    "tamil_word": "ஜன்னல்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කවුළුව",
+    "english_meaning": "the window"
+  },
+  {
+    "word_id": "594",
+    "tamil_word": "ஏணி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඉණිමඟ",
+    "english_meaning": "ladder"
+  },
+  {
+    "word_id": "595",
+    "tamil_word": "நாற்காலி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පුටුව",
+    "english_meaning": "Chair"
+  },
+  {
+    "word_id": "596",
+    "tamil_word": "மேசை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මේසය",
+    "english_meaning": "table"
+  },
+  {
+    "word_id": "597",
+    "tamil_word": "கட்டில்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඇඳ",
+    "english_meaning": "the bed"
+  },
+  {
+    "word_id": "601",
+    "tamil_word": "அலமாரி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඇඳුම් ආයිත්තම් කට්ටලය",
+    "english_meaning": "wardrobe"
+  },
+  {
+    "word_id": "602",
+    "tamil_word": "ஊஞ்சல்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පැද්දෙන්න",
+    "english_meaning": "Swing"
+  },
+  {
+    "word_id": "611",
+    "tamil_word": "கடிகாரம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඔරලෝසුව",
+    "english_meaning": "Clock"
+  },
+  {
+    "word_id": "612",
+    "tamil_word": "மின்விசிறி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රසිකයෙක්",
+    "english_meaning": "Fan"
+  },
+  {
+    "word_id": "613",
+    "tamil_word": "விளக்கு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පහන",
+    "english_meaning": "lamp"
+  },
+  {
+    "word_id": "637",
+    "tamil_word": "கத்தி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Home & Furniture",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පිහිය",
+    "english_meaning": "knife"
+  },
+  {
+    "word_id": "687",
+    "tamil_word": "ஒன்று",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "එකක්",
+    "english_meaning": "One"
+  },
+  {
+    "word_id": "688",
+    "tamil_word": "இரண்டு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දෙකක්",
+    "english_meaning": "Two"
+  },
+  {
+    "word_id": "689",
+    "tamil_word": "மூன்று",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "තුනක්",
+    "english_meaning": "Three"
+  },
+  {
+    "word_id": "690",
+    "tamil_word": "நான்கு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හතර",
+    "english_meaning": "Four"
+  },
+  {
+    "word_id": "691",
+    "tamil_word": "ஐந்து",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පහක්",
+    "english_meaning": "Five"
+  },
+  {
+    "word_id": "692",
+    "tamil_word": "ஆறு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හය",
+    "english_meaning": "Six"
+  },
+  {
+    "word_id": "693",
+    "tamil_word": "ஏழு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හත",
+    "english_meaning": "Seven"
+  },
+  {
+    "word_id": "694",
+    "tamil_word": "எட்டு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අටයි",
+    "english_meaning": "Eight"
+  },
+  {
+    "word_id": "695",
+    "tamil_word": "ஒன்பது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නවය",
+    "english_meaning": "Nine"
+  },
+  {
+    "word_id": "696",
+    "tamil_word": "பத்து",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දහය",
+    "english_meaning": "Ten"
+  },
+  {
+    "word_id": "706",
+    "tamil_word": "இருபது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "විස්සයි",
+    "english_meaning": "Twenty"
+  },
+  {
+    "word_id": "716",
+    "tamil_word": "முப்பது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "තිස්",
+    "english_meaning": "Thirty"
+  },
+  {
+    "word_id": "719",
+    "tamil_word": "நாற்பது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හතළිහකි",
+    "english_meaning": "Forty"
+  },
+  {
+    "word_id": "721",
+    "tamil_word": "ஐம்பது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Numbers",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පනස්",
+    "english_meaning": "fifty"
+  },
+  {
+    "word_id": "787",
+    "tamil_word": "சூரியன்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සූර්යයා",
+    "english_meaning": "the sun"
+  },
+  {
+    "word_id": "788",
+    "tamil_word": "நிலா",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "චන්ද්රයා",
+    "english_meaning": "the moon"
+  },
+  {
+    "word_id": "790",
+    "tamil_word": "வானம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අහස",
+    "english_meaning": "the sky"
+  },
+  {
+    "word_id": "791",
+    "tamil_word": "மேகம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වලාකුළ",
+    "english_meaning": "the cloud"
+  },
+  {
+    "word_id": "792",
+    "tamil_word": "மழை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වැස්ස",
+    "english_meaning": "the rain"
+  },
+  {
+    "word_id": "793",
+    "tamil_word": "காற்று",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සුළඟ",
+    "english_meaning": "wind"
+  },
+  {
+    "word_id": "794",
+    "tamil_word": "நிலம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඉඩම",
+    "english_meaning": "the land"
+  },
+  {
+    "word_id": "795",
+    "tamil_word": "நீர்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ජලය",
+    "english_meaning": "Water"
+  },
+  {
+    "word_id": "797",
+    "tamil_word": "கடல்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මුහුද",
+    "english_meaning": "the sea"
+  },
+  {
+    "word_id": "798",
+    "tamil_word": "மலை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කන්ද",
+    "english_meaning": "the mountain"
+  },
+  {
+    "word_id": "799",
+    "tamil_word": "காடு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වනාන්තරය",
+    "english_meaning": "the forest"
+  },
+  {
+    "word_id": "800",
+    "tamil_word": "மரம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගස",
+    "english_meaning": "tree"
+  },
+  {
+    "word_id": "801",
+    "tamil_word": "செடி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පැල",
+    "english_meaning": "plant"
+  },
+  {
+    "word_id": "811",
+    "tamil_word": "மண்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පස",
+    "english_meaning": "Soil"
+  },
+  {
+    "word_id": "812",
+    "tamil_word": "கல்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගල්",
+    "english_meaning": "Stone"
+  },
+  {
+    "word_id": "826",
+    "tamil_word": "மின்னல்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අකුණු",
+    "english_meaning": "Lightning"
+  },
+  {
+    "word_id": "827",
+    "tamil_word": "இடி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගිගුරුම්",
+    "english_meaning": "thunder"
+  },
+  {
+    "word_id": "835",
+    "tamil_word": "ஒளி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ආලෝකය",
+    "english_meaning": "the light"
+  },
+  {
+    "word_id": "836",
+    "tamil_word": "இருள்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අන්ධකාරය",
+    "english_meaning": "Darkness"
+  },
+  {
+    "word_id": "847",
+    "tamil_word": "குகை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Nature",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ගුහාව",
+    "english_meaning": "Cave"
+  },
+  {
+    "word_id": "886",
+    "tamil_word": "சிவப்பு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "රතු",
+    "english_meaning": "Red"
+  },
+  {
+    "word_id": "887",
+    "tamil_word": "நீலம்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නිල්",
+    "english_meaning": "Blue"
+  },
+  {
+    "word_id": "888",
+    "tamil_word": "பச்சை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කොළ පාටයි",
+    "english_meaning": "Green"
+  },
+  {
+    "word_id": "889",
+    "tamil_word": "கருப்பு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කළු",
+    "english_meaning": "Black"
+  },
+  {
+    "word_id": "890",
+    "tamil_word": "வெள்ளை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සුදු",
+    "english_meaning": "White"
+  },
+  {
+    "word_id": "891",
+    "tamil_word": "ஊதா",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දම් පාට",
+    "english_meaning": "Purple"
+  },
+  {
+    "word_id": "894",
+    "tamil_word": "சாம்பல்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අළු",
+    "english_meaning": "Ash"
+  },
+  {
+    "word_id": "895",
+    "tamil_word": "கருநீலம்",
+    "category": "Adjective",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "තද නිල්",
+    "english_meaning": "dark blue"
+  },
+  {
+    "word_id": "908",
+    "tamil_word": "செந்நிறம்",
+    "category": "Adjective",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "රතු",
+    "english_meaning": "Red"
+  },
+  {
+    "word_id": "952",
+    "tamil_word": "வைரம்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අන්ධකාරය",
+    "english_meaning": "Darkness"
+  },
+  {
+    "word_id": "916",
+    "tamil_word": "கருமை",
+    "category": "Adjective",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සුදු පැහැය",
+    "english_meaning": "Whiteness"
+  },
+  {
+    "word_id": "917",
+    "tamil_word": "வெண்மை",
+    "category": "Adjective",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කොළ පාටයි",
+    "english_meaning": "green"
+  },
+  {
+    "word_id": "918",
+    "tamil_word": "பசுமை",
+    "category": "Adjective",
+    "difficulty": "Easy",
+    "theme": "Colors",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දියමන්ති",
+    "english_meaning": "Diamond"
+  },
+  {
+    "word_id": "986",
+    "tamil_word": "வினாடி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දෙවන",
+    "english_meaning": "second"
+  },
+  {
+    "word_id": "987",
+    "tamil_word": "நிமிடம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මිනි",
+    "english_meaning": "min"
+  },
+  {
+    "word_id": "988",
+    "tamil_word": "மணி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සීනුව",
+    "english_meaning": "bell"
+  },
+  {
+    "word_id": "989",
+    "tamil_word": "நாள்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දවස",
+    "english_meaning": "day"
+  },
+  {
+    "word_id": "990",
+    "tamil_word": "வாரம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සතිය",
+    "english_meaning": "week"
+  },
+  {
+    "word_id": "991",
+    "tamil_word": "மாதம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මාසය",
+    "english_meaning": "month"
+  },
+  {
+    "word_id": "992",
+    "tamil_word": "வருடம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වසර",
+    "english_meaning": "Year"
+  },
+  {
+    "word_id": "993",
+    "tamil_word": "ஆண்டு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වසර",
+    "english_meaning": "year"
+  },
+  {
+    "word_id": "994",
+    "tamil_word": "காலை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "උදෑසන",
+    "english_meaning": "the morning"
+  },
+  {
+    "word_id": "995",
+    "tamil_word": "மதியம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දහවල්",
+    "english_meaning": "Afternoon"
+  },
+  {
+    "word_id": "996",
+    "tamil_word": "மாலை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සවස",
+    "english_meaning": "the evening"
+  },
+  {
+    "word_id": "997",
+    "tamil_word": "இரவு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "රාත්රිය",
+    "english_meaning": "the night"
+  },
+  {
+    "word_id": "1002",
+    "tamil_word": "இன்று",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අද",
+    "english_meaning": "Today"
+  },
+  {
+    "word_id": "1003",
+    "tamil_word": "நாளை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "හෙට",
+    "english_meaning": "Tomorrow"
+  },
+  {
+    "word_id": "1004",
+    "tamil_word": "நேற்று",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Time",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඊයේ",
+    "english_meaning": "Yesterday"
+  },
+  {
+    "word_id": "1080",
+    "tamil_word": "ஆடை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඇඳුම් පැළඳුම්",
+    "english_meaning": "Clothing"
+  },
+  {
+    "word_id": "1081",
+    "tamil_word": "உடை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඇඳුම",
+    "english_meaning": "dress"
+  },
+  {
+    "word_id": "1082",
+    "tamil_word": "சட்டை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කමිසය",
+    "english_meaning": "shirt"
+  },
+  {
+    "word_id": "1083",
+    "tamil_word": "காலுறை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මේස්",
+    "english_meaning": "Socks"
+  },
+  {
+    "word_id": "1084",
+    "tamil_word": "கால்சட்டை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කලිසම්",
+    "english_meaning": "Pants"
+  },
+  {
+    "word_id": "1087",
+    "tamil_word": "சேலை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "සාරිය",
+    "english_meaning": "saree"
+  },
+  {
+    "word_id": "1088",
+    "tamil_word": "வேட்டி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ඉන්න",
+    "english_meaning": "Wait"
+  },
+  {
+    "word_id": "1096",
+    "tamil_word": "சீருடை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නිල ඇඳුම",
+    "english_meaning": "Uniform"
+  },
+  {
+    "word_id": "1105",
+    "tamil_word": "தொப்பி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "තොප්පිය",
+    "english_meaning": "cap"
+  },
+  {
+    "word_id": "1108",
+    "tamil_word": "முகக்கவசம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මාස්ක්",
+    "english_meaning": "Mask"
+  },
+  {
+    "word_id": "1112",
+    "tamil_word": "செருப்பு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "සෙරෙප්පු",
+    "english_meaning": "sandal"
+  },
+  {
+    "word_id": "1152",
+    "tamil_word": "ஹிஜாப்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Clothes",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "හිජාබය",
+    "english_meaning": "Hijab"
+  },
+  {
+    "word_id": "1178",
+    "tamil_word": "உடல்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ශරීරය",
+    "english_meaning": "Body"
+  },
+  {
+    "word_id": "1179",
+    "tamil_word": "தலை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හිස",
+    "english_meaning": "the head"
+  },
+  {
+    "word_id": "1180",
+    "tamil_word": "முடி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හිසකෙස්",
+    "english_meaning": "the hair"
+  },
+  {
+    "word_id": "1181",
+    "tamil_word": "முகம்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මුහුණ",
+    "english_meaning": "the face"
+  },
+  {
+    "word_id": "1183",
+    "tamil_word": "கண்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඇස",
+    "english_meaning": "the eye"
+  },
+  {
+    "word_id": "1187",
+    "tamil_word": "காது",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කන",
+    "english_meaning": "the ear"
+  },
+  {
+    "word_id": "1188",
+    "tamil_word": "மூக்கு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නාසය",
+    "english_meaning": "the nose"
+  },
+  {
+    "word_id": "1191",
+    "tamil_word": "வாய்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මුඛය",
+    "english_meaning": "the mouth"
+  },
+  {
+    "word_id": "1193",
+    "tamil_word": "பல்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දත්",
+    "english_meaning": "tooth"
+  },
+  {
+    "word_id": "1195",
+    "tamil_word": "நாக்கு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දිව",
+    "english_meaning": "the tongue"
+  },
+  {
+    "word_id": "1197",
+    "tamil_word": "கழுத்து",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බෙල්ල",
+    "english_meaning": "Neck"
+  },
+  {
+    "word_id": "1200",
+    "tamil_word": "கை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අත",
+    "english_meaning": "hand"
+  },
+  {
+    "word_id": "1205",
+    "tamil_word": "விரல்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඇඟිල්ල",
+    "english_meaning": "finger"
+  },
+  {
+    "word_id": "1229",
+    "tamil_word": "இதயம்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Body Parts",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "හදවත",
+    "english_meaning": "the heart"
+  },
+  {
+    "word_id": "1278",
+    "tamil_word": "காகம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කපුටා",
+    "english_meaning": "Crow"
+  },
+  {
+    "word_id": "1281",
+    "tamil_word": "கிளி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගිරවා",
+    "english_meaning": "Parrot"
+  },
+  {
+    "word_id": "1282",
+    "tamil_word": "மயில்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මොනරා",
+    "english_meaning": "Peacock"
+  },
+  {
+    "word_id": "1283",
+    "tamil_word": "புறா",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පරෙවියා",
+    "english_meaning": "dove"
+  },
+  {
+    "word_id": "1284",
+    "tamil_word": "குயில்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කුයිල්",
+    "english_meaning": "Quill"
+  },
+  {
+    "word_id": "1285",
+    "tamil_word": "கோழி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කුකුල් මස්",
+    "english_meaning": "Chicken"
+  },
+  {
+    "word_id": "1286",
+    "tamil_word": "சேவல்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කුකුළා",
+    "english_meaning": "Rooster"
+  },
+  {
+    "word_id": "1287",
+    "tamil_word": "வாத்து",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "තාරාවා",
+    "english_meaning": "Duck"
+  },
+  {
+    "word_id": "1288",
+    "tamil_word": "பருந்து",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "උකුස්සා",
+    "english_meaning": "Hawk"
+  },
+  {
+    "word_id": "1289",
+    "tamil_word": "கழுகு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රාජාලියා",
+    "english_meaning": "Eagle"
+  },
+  {
+    "word_id": "1290",
+    "tamil_word": "ஆந்தை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බූවල්ලා",
+    "english_meaning": "owl"
+  },
+  {
+    "word_id": "1291",
+    "tamil_word": "கொக்கு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "දොඹකරය",
+    "english_meaning": "crane"
+  },
+  {
+    "word_id": "1294",
+    "tamil_word": "மைனா",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Birds",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "මයිනා",
+    "english_meaning": "Myna"
+  },
+  {
+    "word_id": "1377",
+    "tamil_word": "மகிழ்ச்சி",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සතුට",
+    "english_meaning": "happiness"
+  },
+  {
+    "word_id": "1379",
+    "tamil_word": "துக்கம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දුක",
+    "english_meaning": "sadness"
+  },
+  {
+    "word_id": "1381",
+    "tamil_word": "கோபம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කෝපය",
+    "english_meaning": "Anger"
+  },
+  {
+    "word_id": "1382",
+    "tamil_word": "பயம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "බිය",
+    "english_meaning": "fear"
+  },
+  {
+    "word_id": "1383",
+    "tamil_word": "அன்பு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ආදරය",
+    "english_meaning": "love"
+  },
+  {
+    "word_id": "1384",
+    "tamil_word": "பாசம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සෙනෙහස",
+    "english_meaning": "affection"
+  },
+  {
+    "word_id": "1385",
+    "tamil_word": "காதல்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ආදරය",
+    "english_meaning": "love"
+  },
+  {
+    "word_id": "1386",
+    "tamil_word": "கருணை",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දයාව",
+    "english_meaning": "mercy"
+  },
+  {
+    "word_id": "1387",
+    "tamil_word": "வெறுப்பு",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වෛරය",
+    "english_meaning": "Hatred"
+  },
+  {
+    "word_id": "1393",
+    "tamil_word": "வெட்கம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඔයාට නින්දාවක්",
+    "english_meaning": "Shame on you"
+  },
+  {
+    "word_id": "1398",
+    "tamil_word": "சந்தேகம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සැකය",
+    "english_meaning": "Doubt"
+  },
+  {
+    "word_id": "1399",
+    "tamil_word": "ஏமாற்றம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "බලාපොරොත්තු සුන්වීම",
+    "english_meaning": "disappointment"
+  },
+  {
+    "word_id": "1469",
+    "tamil_word": "துரோகம்",
+    "category": "Noun",
+    "difficulty": "Hard",
+    "theme": "Emotions/Feelings",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පාවාදීම",
+    "english_meaning": "Betrayal"
+  },
+  {
+    "word_id": "1476",
+    "tamil_word": "தண்ணீர்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ජලය",
+    "english_meaning": "Water"
+  },
+  {
+    "word_id": "1477",
+    "tamil_word": "அரிசி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සහල්",
+    "english_meaning": "Rice"
+  },
+  {
+    "word_id": "1478",
+    "tamil_word": "சோறு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සහල්",
+    "english_meaning": "Rice"
+  },
+  {
+    "word_id": "1479",
+    "tamil_word": "பால்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කිරි",
+    "english_meaning": "Milk"
+  },
+  {
+    "word_id": "1480",
+    "tamil_word": "தயிர்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "යෝගට්",
+    "english_meaning": "Yogurt"
+  },
+  {
+    "word_id": "1484",
+    "tamil_word": "பருப்பு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පරිප්පු",
+    "english_meaning": "lentil"
+  },
+  {
+    "word_id": "1485",
+    "tamil_word": "உப்பு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ලුණු",
+    "english_meaning": "Salt"
+  },
+  {
+    "word_id": "1486",
+    "tamil_word": "சர்க்கரை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සීනි",
+    "english_meaning": "Sugar"
+  },
+  {
+    "word_id": "1487",
+    "tamil_word": "தேன்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "මී පැණි",
+    "english_meaning": "Honey"
+  },
+  {
+    "word_id": "1488",
+    "tamil_word": "முட்டை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බිත්තරය",
+    "english_meaning": "Egg"
+  },
+  {
+    "word_id": "1492",
+    "tamil_word": "வடை",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "තුවාල වෙලා",
+    "english_meaning": "Wounded"
+  },
+  {
+    "word_id": "1500",
+    "tamil_word": "தேநீர்",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "තේ",
+    "english_meaning": "Tea"
+  },
+  {
+    "word_id": "1501",
+    "tamil_word": "காபி",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කෝපි",
+    "english_meaning": "Coffee"
+  },
+  {
+    "word_id": "1527",
+    "tamil_word": "புட்டு",
+    "category": "Noun",
+    "difficulty": "Easy",
+    "theme": "Food & Drink",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "පුඩිං",
+    "english_meaning": "Pudding"
+  },
+  {
+    "word_id": "1572",
+    "tamil_word": "வகுப்பு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පන්තිය",
+    "english_meaning": "Class"
+  },
+  {
+    "word_id": "1573",
+    "tamil_word": "பாடம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පාඩම",
+    "english_meaning": "Lesson"
+  },
+  {
+    "word_id": "1574",
+    "tamil_word": "புத்தகம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පොත",
+    "english_meaning": "book"
+  },
+  {
+    "word_id": "1576",
+    "tamil_word": "பேனா",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පෑන",
+    "english_meaning": "Pen"
+  },
+  {
+    "word_id": "1577",
+    "tamil_word": "பென்சில்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පැන්සල",
+    "english_meaning": "Pencil"
+  },
+  {
+    "word_id": "1578",
+    "tamil_word": "அழிப்பான்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "විනාශ කරන්නා",
+    "english_meaning": "Destroyer"
+  },
+  {
+    "word_id": "1579",
+    "tamil_word": "கரும்பலகை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කළු පුවරුව",
+    "english_meaning": "Blackboard"
+  },
+  {
+    "word_id": "1580",
+    "tamil_word": "காகிதம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "කඩදාසි",
+    "english_meaning": "Paper"
+  },
+  {
+    "word_id": "1581",
+    "tamil_word": "மை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "තීන්ත",
+    "english_meaning": "Ink"
+  },
+  {
+    "word_id": "1597",
+    "tamil_word": "நூலகம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "පුස්තකාලය",
+    "english_meaning": "Library"
+  },
+  {
+    "word_id": "1598",
+    "tamil_word": "மைதானம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බිම",
+    "english_meaning": "Ground"
+  },
+  {
+    "word_id": "1606",
+    "tamil_word": "கடிதம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ලිපිය",
+    "english_meaning": "Letter"
+  },
+  {
+    "word_id": "1614",
+    "tamil_word": "மேடை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "School & Office",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "වේදිකාව",
+    "english_meaning": "platform"
+  },
+  {
+    "word_id": "1657",
+    "tamil_word": "வா",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඉදිරියට එන්න",
+    "english_meaning": "come on"
+  },
+  {
+    "word_id": "1658",
+    "tamil_word": "போ",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "යන්න",
+    "english_meaning": "go"
+  },
+  {
+    "word_id": "1659",
+    "tamil_word": "நில்",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නවත්වන්න",
+    "english_meaning": "Stop"
+  },
+  {
+    "word_id": "1660",
+    "tamil_word": "உட்கார்",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඉඳ ගන්න",
+    "english_meaning": "sit down"
+  },
+  {
+    "word_id": "1661",
+    "tamil_word": "நட",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ඇවිදින්න",
+    "english_meaning": "walk"
+  },
+  {
+    "word_id": "1662",
+    "tamil_word": "ஓடு",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "දුවන්න",
+    "english_meaning": "Run"
+  },
+  {
+    "word_id": "1663",
+    "tamil_word": "சாப்பிடு",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කන්න",
+    "english_meaning": "eat"
+  },
+  {
+    "word_id": "1664",
+    "tamil_word": "குடி",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බොන්න",
+    "english_meaning": "drink"
+  },
+  {
+    "word_id": "1665",
+    "tamil_word": "தூங்கு",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "නිදාගන්න",
+    "english_meaning": "sleep"
+  },
+  {
+    "word_id": "1666",
+    "tamil_word": "படி",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අනුව",
+    "english_meaning": "According to"
+  },
+  {
+    "word_id": "1667",
+    "tamil_word": "எழுது",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "ලියන්න",
+    "english_meaning": "write down"
+  },
+  {
+    "word_id": "1668",
+    "tamil_word": "பேசு",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "කතා කරනවා",
+    "english_meaning": "talk"
+  },
+  {
+    "word_id": "1670",
+    "tamil_word": "பார்",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "බලන්න",
+    "english_meaning": "see"
+  },
+  {
+    "word_id": "1671",
+    "tamil_word": "சிரி",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "සිරි",
+    "english_meaning": "Siri"
+  },
+  {
+    "word_id": "1672",
+    "tamil_word": "அழு",
+    "category": "Verb",
+    "difficulty": "Easy",
+    "theme": "Actions",
+    "grade_level": "Grade1",
+    "sinhala_meaning": "අඬනවා",
+    "english_meaning": "cry"
+  },
+  {
+    "word_id": "1749",
+    "tamil_word": "ஊர்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නගරය",
+    "english_meaning": "town"
+  },
+  {
+    "word_id": "1750",
+    "tamil_word": "நகரம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "නගරය",
+    "english_meaning": "city"
+  },
+  {
+    "word_id": "1751",
+    "tamil_word": "கிராமம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ගම",
+    "english_meaning": "Village"
+  },
+  {
+    "word_id": "1752",
+    "tamil_word": "நாடு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රට",
+    "english_meaning": "Country"
+  },
+  {
+    "word_id": "1753",
+    "tamil_word": "உலகம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ලෝකය",
+    "english_meaning": "the world"
+  },
+  {
+    "word_id": "1757",
+    "tamil_word": "தெரு",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "වීදිය",
+    "english_meaning": "Street"
+  },
+  {
+    "word_id": "1762",
+    "tamil_word": "கல்லூரி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "විද්යාලය",
+    "english_meaning": "College"
+  },
+  {
+    "word_id": "1763",
+    "tamil_word": "பல்கலைக்கழகம்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "විශ්ව විද්යාලය",
+    "english_meaning": "University"
+  },
+  {
+    "word_id": "1764",
+    "tamil_word": "மருத்துவமனை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "රෝහල",
+    "english_meaning": "Hospital"
+  },
+  {
+    "word_id": "1766",
+    "tamil_word": "வங்கி",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "බැංකුව",
+    "english_meaning": "Bank"
+  },
+  {
+    "word_id": "1774",
+    "tamil_word": "சந்தை",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "වෙළෙඳපොළ",
+    "english_meaning": "market"
+  },
+  {
+    "word_id": "1785",
+    "tamil_word": "வயல்",
+    "category": "Noun",
+    "difficulty": "Medium",
+    "theme": "Places",
+    "grade_level": "Grade2",
+    "sinhala_meaning": "ක්ෂේත්රය",
+    "english_meaning": "Field"
+  },
+  {
+    "word_id": "1840",
+    "tamil_word": "பெரிய",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "විශාලයි",
+    "english_meaning": "Big"
+  },
+  {
+    "word_id": "1841",
+    "tamil_word": "சிறிய",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කුඩා",
+    "english_meaning": "Small"
+  },
+  {
+    "word_id": "1842",
+    "tamil_word": "நல்ல",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "හොඳයි",
+    "english_meaning": "good"
+  },
+  {
+    "word_id": "1843",
+    "tamil_word": "கெட்ட",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නරකයි",
+    "english_meaning": "bad"
+  },
+  {
+    "word_id": "1844",
+    "tamil_word": "அழகான",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ලස්සනයි",
+    "english_meaning": "Beautiful"
+  },
+  {
+    "word_id": "1850",
+    "tamil_word": "நீண்ட",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "දිගු",
+    "english_meaning": "Long"
+  },
+  {
+    "word_id": "1851",
+    "tamil_word": "குறுகிய",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කෙටි",
+    "english_meaning": "short"
+  },
+  {
+    "word_id": "1852",
+    "tamil_word": "வேகமான",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "වේගවත්",
+    "english_meaning": "fast"
+  },
+  {
+    "word_id": "1854",
+    "tamil_word": "கடினமான",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අමාරුයි",
+    "english_meaning": "hard"
+  },
+  {
+    "word_id": "1855",
+    "tamil_word": "எளிதான",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පහසුයි",
+    "english_meaning": "Easy"
+  },
+  {
+    "word_id": "1858",
+    "tamil_word": "சூடான",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "උණුසුම්",
+    "english_meaning": "warm"
+  },
+  {
+    "word_id": "1859",
+    "tamil_word": "குளிர்ந்த",
+    "category": "Adjective",
+    "difficulty": "Hard",
+    "theme": "Adjectives",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සීතලයි",
+    "english_meaning": "Cold"
+  },
+  {
+    "word_id": "1933",
+    "tamil_word": "நான்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මම",
+    "english_meaning": "I (I)"
+  },
+  {
+    "word_id": "1934",
+    "tamil_word": "நீ",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඔබ",
+    "english_meaning": "you"
+  },
+  {
+    "word_id": "1935",
+    "tamil_word": "அவன்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඔහු",
+    "english_meaning": "He"
+  },
+  {
+    "word_id": "1936",
+    "tamil_word": "அவள்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඇය",
+    "english_meaning": "She"
+  },
+  {
+    "word_id": "1937",
+    "tamil_word": "அது",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "එය වේ",
+    "english_meaning": "It (It)"
+  },
+  {
+    "word_id": "1938",
+    "tamil_word": "நாம்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අපි",
+    "english_meaning": "We - inclusive"
+  },
+  {
+    "word_id": "1939",
+    "tamil_word": "நாங்கள்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අපි ඉන්නේ",
+    "english_meaning": "We (We - exclusive)"
+  },
+  {
+    "word_id": "1940",
+    "tamil_word": "நீங்கள்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඔබ",
+    "english_meaning": "You (You - plural/respect)"
+  },
+  {
+    "word_id": "1941",
+    "tamil_word": "அவர்கள்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අර තියෙන්නේ",
+    "english_meaning": "They (They - people)"
+  },
+  {
+    "word_id": "1942",
+    "tamil_word": "அவை",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "අර තියෙන්නේ",
+    "english_meaning": "They - things"
+  },
+  {
+    "word_id": "1957",
+    "tamil_word": "இது",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මෙයයි",
+    "english_meaning": "This"
+  },
+  {
+    "word_id": "1958",
+    "tamil_word": "இவை",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "මේවා",
+    "english_meaning": "These"
+  },
+  {
+    "word_id": "1961",
+    "tamil_word": "எது",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කුමන",
+    "english_meaning": "Which"
+  },
+  {
+    "word_id": "1962",
+    "tamil_word": "யார்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "WHO",
+    "english_meaning": "Who"
+  },
+  {
+    "word_id": "1963",
+    "tamil_word": "எவை",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කුමන",
+    "english_meaning": "Which ones"
+  },
+  {
+    "word_id": "1964",
+    "tamil_word": "ஒருவன்",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "එකක්",
+    "english_meaning": "One man"
+  },
+  {
+    "word_id": "1965",
+    "tamil_word": "ஒருத்தி",
+    "category": "Pronoun",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "එකක්",
+    "english_meaning": "One woman"
+  },
+  {
+    "word_id": "1973",
+    "tamil_word": "மேல்",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඉහළ",
+    "english_meaning": "On / Above"
+  },
+  {
+    "word_id": "1974",
+    "tamil_word": "கீழ்",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "යටතේ",
+    "english_meaning": "Under / Below"
+  },
+  {
+    "word_id": "1975",
+    "tamil_word": "உள்ளே",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඇතුළත",
+    "english_meaning": "Inside"
+  },
+  {
+    "word_id": "1976",
+    "tamil_word": "வெளியே",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පිටත",
+    "english_meaning": "Outside"
+  },
+  {
+    "word_id": "1977",
+    "tamil_word": "முன்",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "කලින්",
+    "english_meaning": "Before / In front"
+  },
+  {
+    "word_id": "1978",
+    "tamil_word": "பின்",
+    "category": "Preposition",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "පසු",
+    "english_meaning": "After / Behind"
+  },
+  {
+    "word_id": "2013",
+    "tamil_word": "மற்றும்",
+    "category": "Conjunction",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "සහ",
+    "english_meaning": "And (And)"
+  },
+  {
+    "word_id": "2014",
+    "tamil_word": "ஆனால்",
+    "category": "Conjunction",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නමුත්",
+    "english_meaning": "but"
+  },
+  {
+    "word_id": "2015",
+    "tamil_word": "அல்லது",
+    "category": "Conjunction",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නැත්නම්",
+    "english_meaning": "Or (Or)"
+  },
+  {
+    "word_id": "2056",
+    "tamil_word": "ஆமாம்! ",
+    "category": "Interjection",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "ඔව්!",
+    "english_meaning": "Yes! (Yes!)"
+  },
+  {
+    "word_id": "2057",
+    "tamil_word": "இல்லை! ",
+    "category": "Interjection",
+    "difficulty": "Hard",
+    "theme": "Others",
+    "grade_level": "Grade3",
+    "sinhala_meaning": "නැහැ!",
+    "english_meaning": "No! (No!)"
+  }
+]
