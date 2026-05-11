@@ -1,0 +1,301 @@
+﻿word_id,tamil_word,category,difficulty,theme,grade_level,sinhala_meaning,english_meaning
+1,தக்காளி,Noun,Medium,Vegetables,Grade2,තක්කාලි,tomato
+2,வெங்காயம்,Noun,Medium,Vegetables,Grade2,ලූනු,onion
+5,கத்திரிக்காய்,Noun,Medium,Vegetables,Grade2,වම්බටු,Eggplant
+15,புடலங்காய்,Noun,Medium,Vegetables,Grade2,බටර්කප්,Buttercup
+29,இஞ்சி,Noun,Medium,Vegetables,Grade2,ඉඟුරු,Ginger
+30,பூண்டு,Noun,Medium,Vegetables,Grade2,සුදුළුනු,Garlic
+47,தேங்காய்,Noun,Medium,Vegetables,Grade2,පොල්,Coconut
+68,நெல்லி,Noun,Medium,Vegetables,Grade2,නෙලී,Nelly
+85,வெற்றிலை,Noun,Medium,Vegetables,Grade2,බුලත් කොළය,betel leaf
+86,பாக்கு,Noun,Medium,Vegetables,Grade2,පකු,Paku
+97,மிளகு,Noun,Medium,Vegetables,Grade2,ගම්මිරිස්,Pepper
+98,கடுகு,Noun,Medium,Vegetables,Grade2,අබ,Mustard
+101,ஆப்பிள்,Noun,Medium,Fruits,Grade2,ඇපල්,Apple
+103,வாழைப்பழம்,Noun,Medium,Fruits,Grade2,කෙසෙල්,Banana
+104,திராட்சை,Noun,Medium,Fruits,Grade2,මිදි,grapes
+105,மாம்பழம்,Noun,Medium,Fruits,Grade2,අඹ,Mango
+106,பலாப்பழம்,Noun,Medium,Fruits,Grade2,කොස්,jackfruit
+107,அன்னாசி,Noun,Medium,Fruits,Grade2,අන්නාසි,Pineapple
+108,பப்பாளி,Noun,Medium,Fruits,Grade2,පැපොල්,Papaya
+109,கொய்யா,Noun,Medium,Fruits,Grade2,පේර,Guava
+110,மாதுளை,Noun,Medium,Fruits,Grade2,දෙළුම්,Pomegranate
+117,நாவல் பழம்,Noun,Medium,Fruits,Grade2,නව පලතුර,Novel fruit
+118,நெல்லிக்காய்,Noun,Medium,Fruits,Grade2,ගූස්බෙරි,Gooseberry
+133,ரம்புட்டான்,Noun,Medium,Fruits,Grade2,රඹුටන්,Rambutan
+156,ஈச்சம்பழம்,Noun,Medium,Fruits,Grade2,දෙළුම්,Pomegranate
+194,அம்மா,Noun,Easy,People & Family,Grade1,මව,mother
+195,அப்பா,Noun,Easy,People & Family,Grade1,පියා,father
+197,தம்பி,Noun,Easy,People & Family,Grade1,සහෝදරයා,brother
+198,அக்கா,Noun,Easy,People & Family,Grade1,සහෝදරිය,sister
+199,தங்கை,Noun,Easy,People & Family,Grade1,බාල නංගි,younger sister
+200,பாட்டி,Noun,Easy,People & Family,Grade1,ආච්චි,Grandmother
+201,தாத்தா,Noun,Easy,People & Family,Grade1,සීයා,grandfather
+202,மாமா,Noun,Easy,People & Family,Grade1,මාමා,uncle
+203,அத்தை,Noun,Easy,People & Family,Grade1,නැන්දා,Aunt
+208,மகன்,Noun,Easy,People & Family,Grade1,පුතා,son
+209,மகள்,Noun,Easy,People & Family,Grade1,දුව,daughter
+212,கணவர்,Noun,Easy,People & Family,Grade1,සැමියා,Husband
+213,மனைவி,Noun,Easy,People & Family,Grade1,බිරිඳ,wife
+216,சிறுவன்,Noun,Easy,People & Family,Grade1,කොල්ලා,boy
+217,சிறுமி,Noun,Easy,People & Family,Grade1,කුඩා දැරිය,little girl
+293,ஆசிரியர்,Noun,Hard,Jobs/Professions,Grade3,ගුරුවරයා,Teacher
+294,மருத்துவர்,Noun,Hard,Jobs/Professions,Grade3,ඩොක්ටර්,Doctor
+297,காவலர்,Noun,Hard,Jobs/Professions,Grade3,ආරක්ෂකයා,Guard
+299,விவசாயி,Noun,Hard,Jobs/Professions,Grade3,ගොවියා,farmer
+308,நீதிபதி,Noun,Hard,Jobs/Professions,Grade3,විනිසුරු,Judge
+309,தச்சன்,Noun,Hard,Jobs/Professions,Grade3,වඩු කාර්මිකයා,Carpenter
+323,மாலுமி,Noun,Hard,Jobs/Professions,Grade3,නාවිකයා,Sailor
+331,ஓவியர்,Noun,Hard,Jobs/Professions,Grade3,පින්තාරු කරන්නා,Painter
+332,பாடகர்,Noun,Hard,Jobs/Professions,Grade3,ගායකයා,Singer
+334,நடிகர்,Noun,Hard,Jobs/Professions,Grade3,නළුවා,actor
+337,சிற்பி,Noun,Hard,Jobs/Professions,Grade3,මූර්ති ශිල්පියා,Sculptor
+370,மதகுரு,Noun,Hard,Jobs/Professions,Grade3,පැවිද්දා,Clergyman
+391,நாய்,Noun,Easy,Animals,Grade1,බල්ලා,the dog
+392,பூனை,Noun,Easy,Animals,Grade1,බළලා,Cat
+393,பசு,Noun,Easy,Animals,Grade1,ගවයා,the cow
+394,ஆடு,Noun,Easy,Animals,Grade1,එළුවා,Goat
+398,யானை,Noun,Easy,Animals,Grade1,අලියා,Elephant
+399,சிங்கம்,Noun,Easy,Animals,Grade1,සිංහයා,the lion
+400,புலி,Noun,Easy,Animals,Grade1,කොටියා,tiger
+401,கரடி,Noun,Easy,Animals,Grade1,වලසා,Bear
+403,நரி,Noun,Easy,Animals,Grade1,නරියා,Fox
+405,மான்,Noun,Easy,Animals,Grade1,මුවන්,Deer
+406,முயல்,Noun,Easy,Animals,Grade1,හාවා,Rabbit
+409,பன்றி,Noun,Easy,Animals,Grade1,ඌරා,Pig
+410,எலி,Noun,Easy,Animals,Grade1,මීයා,Rat
+418,பாம்பு,Noun,Easy,Animals,Grade1,සර්පයා,Snake
+420,மீன்,Noun,Easy,Animals,Grade1,මාළු,Fish
+487,பேருந்து,Noun,Medium,Vehicles,Grade2,බසය,Bus
+491,லாரி,Noun,Medium,Vehicles,Grade2,ලැරී,Larry
+495,வானூர்தி,Noun,Medium,Vehicles,Grade2,ගුවන් යානය,Airplane
+496,விமானம்,Noun,Medium,Vehicles,Grade2,ගුවන් යානය,Airplane
+497,கப்பல்,Noun,Medium,Vehicles,Grade2,නැව,the ship
+498,படகு,Noun,Medium,Vehicles,Grade2,බෝට්ටුව,boat
+499,ஹெலிகாப்டர்,Noun,Medium,Vehicles,Grade2,හෙලිකොප්ටරය,Helicopter
+501,ஆட்டோ,Noun,Medium,Vehicles,Grade2,ඔටෝ,Auto
+503,டிராக்டர்,Noun,Medium,Vehicles,Grade2,ට්රැක්ටරය,Tractor
+510,குதிரை வண்டி,Noun,Medium,Vehicles,Grade2,අශ්ව කරත්තය,horse carriage
+520,ராக்கெட்,Noun,Medium,Vehicles,Grade2,රොකට්,Rocket
+525,வேன்,Noun,Medium,Vehicles,Grade2,වෑන්,Van
+587,வீடு,Noun,Medium,Home & Furniture,Grade2,ගෙදර,home
+589,கதவு,Noun,Medium,Home & Furniture,Grade2,දොර,the door
+590,ஜன்னல்,Noun,Medium,Home & Furniture,Grade2,කවුළුව,the window
+594,ஏணி,Noun,Medium,Home & Furniture,Grade2,ඉණිමඟ,ladder
+595,நாற்காலி,Noun,Medium,Home & Furniture,Grade2,පුටුව,Chair
+596,மேசை,Noun,Medium,Home & Furniture,Grade2,මේසය,table
+597,கட்டில்,Noun,Medium,Home & Furniture,Grade2,ඇඳ,the bed
+601,அலமாரி,Noun,Medium,Home & Furniture,Grade2,ඇඳුම් ආයිත්තම් කට්ටලය,wardrobe
+602,ஊஞ்சல்,Noun,Medium,Home & Furniture,Grade2,පැද්දෙන්න,Swing
+611,கடிகாரம்,Noun,Medium,Home & Furniture,Grade2,ඔරලෝසුව,Clock
+612,மின்விசிறி,Noun,Medium,Home & Furniture,Grade2,රසිකයෙක්,Fan
+613,விளக்கு,Noun,Medium,Home & Furniture,Grade2,පහන,lamp
+637,கத்தி,Noun,Medium,Home & Furniture,Grade2,පිහිය,knife
+687,ஒன்று,Noun,Easy,Numbers,Grade1,එකක්,One
+688,இரண்டு,Noun,Easy,Numbers,Grade1,දෙකක්,Two
+689,மூன்று,Noun,Easy,Numbers,Grade1,තුනක්,Three
+690,நான்கு,Noun,Easy,Numbers,Grade1,හතර,Four
+691,ஐந்து,Noun,Easy,Numbers,Grade1,පහක්,Five
+692,ஆறு,Noun,Easy,Numbers,Grade1,හය,Six
+693,ஏழு,Noun,Easy,Numbers,Grade1,හත,Seven
+694,எட்டு,Noun,Easy,Numbers,Grade1,අටයි,Eight
+695,ஒன்பது,Noun,Easy,Numbers,Grade1,නවය,Nine
+696,பத்து,Noun,Easy,Numbers,Grade1,දහය,Ten
+706,இருபது,Noun,Easy,Numbers,Grade1,විස්සයි,Twenty
+716,முப்பது,Noun,Easy,Numbers,Grade1,තිස්,Thirty
+719,நாற்பது,Noun,Easy,Numbers,Grade1,හතළිහකි,Forty
+721,ஐம்பது,Noun,Easy,Numbers,Grade1,පනස්,fifty
+787,சூரியன்,Noun,Hard,Nature,Grade3,සූර්යයා,the sun
+788,நிலா,Noun,Hard,Nature,Grade3,චන්ද්රයා,the moon
+790,வானம்,Noun,Hard,Nature,Grade3,අහස,the sky
+791,மேகம்,Noun,Hard,Nature,Grade3,වලාකුළ,the cloud
+792,மழை,Noun,Hard,Nature,Grade3,වැස්ස,the rain
+793,காற்று,Noun,Hard,Nature,Grade3,සුළඟ,wind
+794,நிலம்,Noun,Hard,Nature,Grade3,ඉඩම,the land
+795,நீர்,Noun,Hard,Nature,Grade3,ජලය,Water
+797,கடல்,Noun,Hard,Nature,Grade3,මුහුද,the sea
+798,மலை,Noun,Hard,Nature,Grade3,කන්ද,the mountain
+799,காடு,Noun,Hard,Nature,Grade3,වනාන්තරය,the forest
+800,மரம்,Noun,Hard,Nature,Grade3,ගස,tree
+801,செடி,Noun,Hard,Nature,Grade3,පැල,plant
+811,மண்,Noun,Hard,Nature,Grade3,පස,Soil
+812,கல்,Noun,Hard,Nature,Grade3,ගල්,Stone
+826,மின்னல்,Noun,Hard,Nature,Grade3,අකුණු,Lightning
+827,இடி,Noun,Hard,Nature,Grade3,ගිගුරුම්,thunder
+835,ஒளி,Noun,Hard,Nature,Grade3,ආලෝකය,the light
+836,இருள்,Noun,Hard,Nature,Grade3,අන්ධකාරය,Darkness
+847,குகை,Noun,Hard,Nature,Grade3,ගුහාව,Cave
+886,சிவப்பு,Noun,Easy,Colors,Grade1,රතු,Red
+887,நீலம்,Noun,Easy,Colors,Grade1,නිල්,Blue
+888,பச்சை,Noun,Easy,Colors,Grade1,කොළ පාටයි,Green
+889,கருப்பு,Noun,Easy,Colors,Grade1,කළු,Black
+890,வெள்ளை,Noun,Easy,Colors,Grade1,සුදු,White
+891,ஊதா,Noun,Easy,Colors,Grade1,දම් පාට,Purple
+894,சாம்பல்,Noun,Easy,Colors,Grade1,අළු,Ash
+895,கருநீலம்,Adjective,Easy,Colors,Grade1,තද නිල්,dark blue
+908,செந்நிறம்,Adjective,Easy,Colors,Grade1,රතු,Red
+952,வைரம்,Noun,Easy,Colors,Grade1,අන්ධකාරය,Darkness
+916,கருமை,Adjective,Easy,Colors,Grade1,සුදු පැහැය,Whiteness
+917,வெண்மை,Adjective,Easy,Colors,Grade1,කොළ පාටයි,green
+918,பசுமை,Adjective,Easy,Colors,Grade1,දියමන්ති,Diamond
+986,வினாடி,Noun,Hard,Time,Grade3,දෙවන,second
+987,நிமிடம்,Noun,Hard,Time,Grade3,මිනි,min
+988,மணி,Noun,Hard,Time,Grade3,සීනුව,bell
+989,நாள்,Noun,Hard,Time,Grade3,දවස,day
+990,வாரம்,Noun,Hard,Time,Grade3,සතිය,week
+991,மாதம்,Noun,Hard,Time,Grade3,මාසය,month
+992,வருடம்,Noun,Hard,Time,Grade3,වසර,Year
+993,ஆண்டு,Noun,Hard,Time,Grade3,වසර,year
+994,காலை,Noun,Hard,Time,Grade3,උදෑසන,the morning
+995,மதியம்,Noun,Hard,Time,Grade3,දහවල්,Afternoon
+996,மாலை,Noun,Hard,Time,Grade3,සවස,the evening
+997,இரவு,Noun,Hard,Time,Grade3,රාත්රිය,the night
+1002,இன்று,Noun,Hard,Time,Grade3,අද,Today
+1003,நாளை,Noun,Hard,Time,Grade3,හෙට,Tomorrow
+1004,நேற்று,Noun,Hard,Time,Grade3,ඊයේ,Yesterday
+1080,ஆடை,Noun,Medium,Clothes,Grade2,ඇඳුම් පැළඳුම්,Clothing
+1081,உடை,Noun,Medium,Clothes,Grade2,ඇඳුම,dress
+1082,சட்டை,Noun,Medium,Clothes,Grade2,කමිසය,shirt
+1083,காலுறை,Noun,Medium,Clothes,Grade2,මේස්,Socks
+1084,கால்சட்டை,Noun,Medium,Clothes,Grade2,කලිසම්,Pants
+1087,சேலை,Noun,Medium,Clothes,Grade2,සාරිය,saree
+1088,வேட்டி,Noun,Medium,Clothes,Grade2,ඉන්න,Wait
+1096,சீருடை,Noun,Medium,Clothes,Grade2,නිල ඇඳුම,Uniform
+1105,தொப்பி,Noun,Medium,Clothes,Grade2,තොප්පිය,cap
+1108,முகக்கவசம்,Noun,Medium,Clothes,Grade2,මාස්ක්,Mask
+1112,செருப்பு,Noun,Medium,Clothes,Grade2,සෙරෙප්පු,sandal
+1152,ஹிஜாப்,Noun,Medium,Clothes,Grade2,හිජාබය,Hijab
+1178,உடல்,Noun,Easy,Body Parts,Grade1,ශරීරය,Body
+1179,தலை,Noun,Easy,Body Parts,Grade1,හිස,the head
+1180,முடி,Noun,Easy,Body Parts,Grade1,හිසකෙස්,the hair
+1181,முகம்,Noun,Easy,Body Parts,Grade1,මුහුණ,the face
+1183,கண்,Noun,Easy,Body Parts,Grade1,ඇස,the eye
+1187,காது,Noun,Easy,Body Parts,Grade1,කන,the ear
+1188,மூக்கு,Noun,Easy,Body Parts,Grade1,නාසය,the nose
+1191,வாய்,Noun,Easy,Body Parts,Grade1,මුඛය,the mouth
+1193,பல்,Noun,Easy,Body Parts,Grade1,දත්,tooth
+1195,நாக்கு,Noun,Easy,Body Parts,Grade1,දිව,the tongue
+1197,கழுத்து,Noun,Easy,Body Parts,Grade1,බෙල්ල,Neck
+1200,கை,Noun,Easy,Body Parts,Grade1,අත,hand
+1205,விரல்,Noun,Easy,Body Parts,Grade1,ඇඟිල්ල,finger
+1229,இதயம்,Noun,Easy,Body Parts,Grade1,හදවත,the heart
+1278,காகம்,Noun,Medium,Birds,Grade2,කපුටා,Crow
+1281,கிளி,Noun,Medium,Birds,Grade2,ගිරවා,Parrot
+1282,மயில்,Noun,Medium,Birds,Grade2,මොනරා,Peacock
+1283,புறா,Noun,Medium,Birds,Grade2,පරෙවියා,dove
+1284,குயில்,Noun,Medium,Birds,Grade2,කුයිල්,Quill
+1285,கோழி,Noun,Medium,Birds,Grade2,කුකුල් මස්,Chicken
+1286,சேவல்,Noun,Medium,Birds,Grade2,කුකුළා,Rooster
+1287,வாத்து,Noun,Medium,Birds,Grade2,තාරාවා,Duck
+1288,பருந்து,Noun,Medium,Birds,Grade2,උකුස්සා,Hawk
+1289,கழுகு,Noun,Medium,Birds,Grade2,රාජාලියා,Eagle
+1290,ஆந்தை,Noun,Medium,Birds,Grade2,බූවල්ලා,owl
+1291,கொக்கு,Noun,Medium,Birds,Grade2,දොඹකරය,crane
+1294,மைனா,Noun,Medium,Birds,Grade2,මයිනා,Myna
+1377,மகிழ்ச்சி,Noun,Hard,Emotions/Feelings,Grade3,සතුට,happiness
+1379,துக்கம்,Noun,Hard,Emotions/Feelings,Grade3,දුක,sadness
+1381,கோபம்,Noun,Hard,Emotions/Feelings,Grade3,කෝපය,Anger
+1382,பயம்,Noun,Hard,Emotions/Feelings,Grade3,බිය,fear
+1383,அன்பு,Noun,Hard,Emotions/Feelings,Grade3,ආදරය,love
+1384,பாசம்,Noun,Hard,Emotions/Feelings,Grade3,සෙනෙහස,affection
+1385,காதல்,Noun,Hard,Emotions/Feelings,Grade3,ආදරය,love
+1386,கருணை,Noun,Hard,Emotions/Feelings,Grade3,දයාව,mercy
+1387,வெறுப்பு,Noun,Hard,Emotions/Feelings,Grade3,වෛරය,Hatred
+1393,வெட்கம்,Noun,Hard,Emotions/Feelings,Grade3,ඔයාට නින්දාවක්,Shame on you
+1398,சந்தேகம்,Noun,Hard,Emotions/Feelings,Grade3,සැකය,Doubt
+1399,ஏமாற்றம்,Noun,Hard,Emotions/Feelings,Grade3,බලාපොරොත්තු සුන්වීම,disappointment
+1469,துரோகம்,Noun,Hard,Emotions/Feelings,Grade3,පාවාදීම,Betrayal
+1476,தண்ணீர்,Noun,Easy,Food & Drink,Grade1,ජලය,Water
+1477,அரிசி,Noun,Easy,Food & Drink,Grade1,සහල්,Rice
+1478,சோறு,Noun,Easy,Food & Drink,Grade1,සහල්,Rice
+1479,பால்,Noun,Easy,Food & Drink,Grade1,කිරි,Milk
+1480,தயிர்,Noun,Easy,Food & Drink,Grade1,යෝගට්,Yogurt
+1484,பருப்பு,Noun,Easy,Food & Drink,Grade1,පරිප්පු,lentil
+1485,உப்பு,Noun,Easy,Food & Drink,Grade1,ලුණු,Salt
+1486,சர்க்கரை,Noun,Easy,Food & Drink,Grade1,සීනි,Sugar
+1487,தேன்,Noun,Easy,Food & Drink,Grade1,මී පැණි,Honey
+1488,முட்டை,Noun,Easy,Food & Drink,Grade1,බිත්තරය,Egg
+1492,வடை,Noun,Easy,Food & Drink,Grade1,තුවාල වෙලා,Wounded
+1500,தேநீர்,Noun,Easy,Food & Drink,Grade1,තේ,Tea
+1501,காபி,Noun,Easy,Food & Drink,Grade1,කෝපි,Coffee
+1527,புட்டு,Noun,Easy,Food & Drink,Grade1,පුඩිං,Pudding
+1572,வகுப்பு,Noun,Medium,School & Office,Grade2,පන්තිය,Class
+1573,பாடம்,Noun,Medium,School & Office,Grade2,පාඩම,Lesson
+1574,புத்தகம்,Noun,Medium,School & Office,Grade2,පොත,book
+1576,பேனா,Noun,Medium,School & Office,Grade2,පෑන,Pen
+1577,பென்சில்,Noun,Medium,School & Office,Grade2,පැන්සල,Pencil
+1578,அழிப்பான்,Noun,Medium,School & Office,Grade2,විනාශ කරන්නා,Destroyer
+1579,கரும்பலகை,Noun,Medium,School & Office,Grade2,කළු පුවරුව,Blackboard
+1580,காகிதம்,Noun,Medium,School & Office,Grade2,කඩදාසි,Paper
+1581,மை,Noun,Medium,School & Office,Grade2,තීන්ත,Ink
+1597,நூலகம்,Noun,Medium,School & Office,Grade2,පුස්තකාලය,Library
+1598,மைதானம்,Noun,Medium,School & Office,Grade2,බිම,Ground
+1606,கடிதம்,Noun,Medium,School & Office,Grade2,ලිපිය,Letter
+1614,மேடை,Noun,Medium,School & Office,Grade2,වේදිකාව,platform
+1657,வா,Verb,Easy,Actions,Grade1,ඉදිරියට එන්න,come on
+1658,போ,Verb,Easy,Actions,Grade1,යන්න,go
+1659,நில்,Verb,Easy,Actions,Grade1,නවත්වන්න,Stop
+1660,உட்கார்,Verb,Easy,Actions,Grade1,ඉඳ ගන්න,sit down
+1661,நட,Verb,Easy,Actions,Grade1,ඇවිදින්න,walk
+1662,ஓடு,Verb,Easy,Actions,Grade1,දුවන්න,Run
+1663,சாப்பிடு,Verb,Easy,Actions,Grade1,කන්න,eat
+1664,குடி,Verb,Easy,Actions,Grade1,බොන්න,drink
+1665,தூங்கு,Verb,Easy,Actions,Grade1,නිදාගන්න,sleep
+1666,படி,Verb,Easy,Actions,Grade1,අනුව,According to
+1667,எழுது,Verb,Easy,Actions,Grade1,ලියන්න,write down
+1668,பேசு,Verb,Easy,Actions,Grade1,කතා කරනවා,talk
+1670,பார்,Verb,Easy,Actions,Grade1,බලන්න,see
+1671,சிரி,Verb,Easy,Actions,Grade1,සිරි,Siri
+1672,அழு,Verb,Easy,Actions,Grade1,අඬනවා,cry
+1749,ஊர்,Noun,Medium,Places,Grade2,නගරය,town
+1750,நகரம்,Noun,Medium,Places,Grade2,නගරය,city
+1751,கிராமம்,Noun,Medium,Places,Grade2,ගම,Village
+1752,நாடு,Noun,Medium,Places,Grade2,රට,Country
+1753,உலகம்,Noun,Medium,Places,Grade2,ලෝකය,the world
+1757,தெரு,Noun,Medium,Places,Grade2,වීදිය,Street
+1762,கல்லூரி,Noun,Medium,Places,Grade2,විද්යාලය,College
+1763,பல்கலைக்கழகம்,Noun,Medium,Places,Grade2,විශ්ව විද්යාලය,University
+1764,மருத்துவமனை,Noun,Medium,Places,Grade2,රෝහල,Hospital
+1766,வங்கி,Noun,Medium,Places,Grade2,බැංකුව,Bank
+1774,சந்தை,Noun,Medium,Places,Grade2,වෙළෙඳපොළ,market
+1785,வயல்,Noun,Medium,Places,Grade2,ක්ෂේත්රය,Field
+1840,பெரிய,Adjective,Hard,Adjectives,Grade3,විශාලයි,Big
+1841,சிறிய,Adjective,Hard,Adjectives,Grade3,කුඩා,Small
+1842,நல்ல,Adjective,Hard,Adjectives,Grade3,හොඳයි,good
+1843,கெட்ட,Adjective,Hard,Adjectives,Grade3,නරකයි,bad
+1844,அழகான,Adjective,Hard,Adjectives,Grade3,ලස්සනයි,Beautiful
+1850,நீண்ட,Adjective,Hard,Adjectives,Grade3,දිගු,Long
+1851,குறுகிய,Adjective,Hard,Adjectives,Grade3,කෙටි,short
+1852,வேகமான,Adjective,Hard,Adjectives,Grade3,වේගවත්,fast
+1854,கடினமான,Adjective,Hard,Adjectives,Grade3,අමාරුයි,hard
+1855,எளிதான,Adjective,Hard,Adjectives,Grade3,පහසුයි,Easy
+1858,சூடான,Adjective,Hard,Adjectives,Grade3,උණුසුම්,warm
+1859,குளிர்ந்த,Adjective,Hard,Adjectives,Grade3,සීතලයි,Cold
+1933,நான்,Pronoun,Hard,Others,Grade3,මම,I (I)
+1934,நீ,Pronoun,Hard,Others,Grade3,ඔබ,you
+1935,அவன்,Pronoun,Hard,Others,Grade3,ඔහු,He
+1936,அவள்,Pronoun,Hard,Others,Grade3,ඇය,She
+1937,அது,Pronoun,Hard,Others,Grade3,එය වේ,It (It)
+1938,நாம்,Pronoun,Hard,Others,Grade3,අපි,We - inclusive
+1939,நாங்கள்,Pronoun,Hard,Others,Grade3,අපි ඉන්නේ,We (We - exclusive)
+1940,நீங்கள்,Pronoun,Hard,Others,Grade3,ඔබ,You (You - plural/respect)
+1941,அவர்கள்,Pronoun,Hard,Others,Grade3,අර තියෙන්නේ,They (They - people)
+1942,அவை,Pronoun,Hard,Others,Grade3,අර තියෙන්නේ,They - things
+1957,இது,Pronoun,Hard,Others,Grade3,මෙයයි,This
+1958,இவை,Pronoun,Hard,Others,Grade3,මේවා,These
+1961,எது,Pronoun,Hard,Others,Grade3,කුමන,Which
+1962,யார்,Pronoun,Hard,Others,Grade3,WHO,Who
+1963,எவை,Pronoun,Hard,Others,Grade3,කුමන,Which ones
+1964,ஒருவன்,Pronoun,Hard,Others,Grade3,එකක්,One man
+1965,ஒருத்தி,Pronoun,Hard,Others,Grade3,එකක්,One woman
+1973,மேல்,Preposition,Hard,Others,Grade3,ඉහළ,On / Above
+1974,கீழ்,Preposition,Hard,Others,Grade3,යටතේ,Under / Below
+1975,உள்ளே,Preposition,Hard,Others,Grade3,ඇතුළත,Inside
+1976,வெளியே,Preposition,Hard,Others,Grade3,පිටත,Outside
+1977,முன்,Preposition,Hard,Others,Grade3,කලින්,Before / In front
+1978,பின்,Preposition,Hard,Others,Grade3,පසු,After / Behind
+2013,மற்றும்,Conjunction,Hard,Others,Grade3,සහ,And (And)
+2014,ஆனால்,Conjunction,Hard,Others,Grade3,නමුත්,but
+2015,அல்லது,Conjunction,Hard,Others,Grade3,නැත්නම්,Or (Or)
+2056,ஆமாம்! ,Interjection,Hard,Others,Grade3,ඔව්!,Yes! (Yes!)
+2057,இல்லை! ,Interjection,Hard,Others,Grade3,නැහැ!,No! (No!)
